@@ -1,0 +1,1 @@
+Create a method that adds texture and shading to given objects
